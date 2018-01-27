@@ -1,0 +1,6 @@
+[package]
+name = "ft_ls"
+version = "0.1.0"
+authors = ["mfranc"]
+
+[dependencies]
